@@ -1,6 +1,6 @@
 # Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 2
 
-This repository holds the code for part two of the Real Python [Python REST APIs With Flask, Connexion, and SQLAlchemy](https://realpython.com/flask-connexion-rest-api-part-2) tutorial series.
+This repository holds the code for part two of the Real Python [Python REST APIs With Flask, Connexion, and SQLAlchemy]
 
 ## Real Python Flask REST API – Part 2
 
@@ -63,8 +63,6 @@ This will create a database named `people.db` that you can use with your project
 
 ## Author
 
-- **Philipp Acsany**, E-mail: [philipp@realpython.com](philipp@realpython.com)
+- **MAHER HENI**, E-mail:maher.heni@supcom.tn
 
-## License
 
-Distributed under the MIT license. See [`LICENSE`](../LICENSE) for more information.
